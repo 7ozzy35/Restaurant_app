@@ -1,6 +1,6 @@
 # Restaurant App | Restoran Uygulaması 🍽️
 
-## 🇬🇧 Description
+## EN Description
 A simple restaurant application built with React Native and Expo. Users can view restaurant menus a modern interface.
 
 ### Tech Stack
@@ -14,7 +14,7 @@ npm install
 npx expo start
 ```
 
-## 🇹🇷 Açıklama
+## TR Açıklama
 React Native ve Expo ile geliştirilmiş basit bir restoran uygulaması. Kullanıcılar modern bir arayüz üzerinden restoran menülerini görüntüleyebilir.
 
 ### Teknoloji Altyapısı
